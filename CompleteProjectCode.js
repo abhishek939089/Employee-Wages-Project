@@ -6,6 +6,7 @@ if (isPresent == present) {
   console.log("Employee is Present");
 } else {
   console.log("Employee is not Present");
+  return;
 }
 
 //calculating dailywage of an employee with using a function
